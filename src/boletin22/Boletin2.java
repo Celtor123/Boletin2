@@ -2,7 +2,7 @@
 package boletin22;
 
 public class Boletin2 {
-    byte lado=2;
+    byte lado=3;
     public void area(){
         int area=lado*lado;
        System.out.print(area);
